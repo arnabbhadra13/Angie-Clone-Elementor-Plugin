@@ -14,3 +14,6 @@ This repo contains a single-file WordPress plugin plus admin assets that provide
 - `angie-clone.php` — Main plugin file (this repo's plugin).
 - `admin.js` — Admin UI JS responsible for calling the preview/apply REST endpoints.
 - `admin.css` — Small admin CSS used on the plugin page.
+
+## Install Guide
+- Still this plugin in under construction
